@@ -1,5 +1,16 @@
-# MatchyLand GitHub Pages package
+# MatchyLand
 
-This directory contains only the public MatchyLand website, public policy pages, and selected screenshots. It intentionally contains no Android source, APK, AAB, keystore, credentials, or Play Console exports.
+Official public website and policy pages for MatchyLand, a colorful, private, offline memory matching game for Android.
 
-Publish the contents of this directory at the root of a dedicated `gh-pages` branch.
+**Google Play closed beta coming soon.**
+
+- [MatchyLand website](https://kernferm.github.io/MatchyLand-Android/)
+- [Privacy policy](https://kernferm.github.io/MatchyLand-Android/privacy.html)
+- [Support](https://kernferm.github.io/MatchyLand-Android/support.html)
+- [Closed-beta information](https://kernferm.github.io/MatchyLand-Android/closed-beta.html)
+
+Developed & Created By: Jeff | BubblesTheDev
+
+## Repository scope
+
+This repository intentionally contains only the public static website, policy text, app icon, and selected screenshots. It does not distribute the Android application source, APK, AAB, signing keys, certificates, credentials, or private Play Console records.
